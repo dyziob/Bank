@@ -1,0 +1,4 @@
+Numer konta: 2152
+ Nazwisko: Brzostowski
+ Imie: Krzysztof
+ Stan konta: 600
